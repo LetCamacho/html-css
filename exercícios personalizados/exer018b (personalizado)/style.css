@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Neuton:ital,wght@0,200;0,300;0,400;0,700;0,800;1,400&display=swap');
+
+* {
+    background-attachment: fixed;
+}
+
+body {
+    background-image: linear-gradient( to bottom, #24B8D6, #12344F, #07111B);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+main {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(28, 141, 163, 0.589);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+    color: #4D4775;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgba(59, 55, 88, 0.938);
+    font-family: 'Courgette', Arial, sans-serif;
+    font-size: 2em;
+    }
+
+h2 {
+    color: #DA1D23;
+    ;font-family: 'Neuton', Times, serif;
+    font-size: 1.5em;
+}
+
+p {
+    text-align: justify;
+}

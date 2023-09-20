@@ -1,0 +1,65 @@
+Título: Ahri, a Raposa de Nove Caudas.
+Tudo o que você sempre quis saber, de forma resumida.
+
+
+Informações Gerais  (h1)
+Ahri é uma das campeãs do popular jogo de computador League of Legends (link para o site do lol), desenvolvido pela empresa Riot Games (strong). Lançada em 14/12/2011, é uma personagem da raça Vastaya (link) com traços de raposa e seu país de origem é Ionia (link). Exerce a função de maga (strong) e costuma ser usada na rota Mid (strong / abbr meio).
+É capaz de manipular as emoções de sua presa e consumir sua essência, devorando também as memórias e as percepções de cada alma absorvida. Atualmente viaja pelo mundo em busca de vestígios dos seus antepassados enquanto tenta substituir as memórias roubadas por novas de sua própria autoria.
+Também está disponível nos demais jogos da Riot Games: League of Legends: Wild Rift (abbr versão mobile do Lol), League os Legendes: Ruined King (abbr colocar as plataformas)  e League of Runeterra (LoR mobile).
+ versão mobile do Lol (abbr League of Legendes) para celular, Wild Ritf, e nos jogos League of Legends: Ruined King e League of Runeterra
+
+Ruined King e LoR (League of Runeterra
+
+História (h2)
+Abandonada nas montanhas nevadas do norte de Ionia, tudo que lhe restava de sua família original era um objeto: um par de joias. Então, certo dia, foi acolhida por um bando de raposas polares após se juntar a elas quando perseguiam uma presa.
+Sem ter ninguém para ensinar-lhe a magia de seu povo, Ahri aprendeu institivamente a absorvê-la do mundo a sua volta, criando esferas destruidoras e agilizando seus reflexos. 
+Quando conseguia se aproximar o suficiente, colocava até um cervo em um estado tão profundo de tranquilidade, o fazendo permanecer calmo mesmo enquanto ela enfiava seus dentes em sua carne.
+[FOTO]
+Seu primeiro contato com humanos foi quando uma tropa de soldados acampou perto de sua toca. O comportamento deles parecia estranho e curiosa para saber mais, ela os observava de longe. Ahri ficou especialmente intrigada com um caçador que, ao contrário dos companheiros, usava todas as partes dos animais que abatia, fazendo-a lembrar-se de sua família de raposas.
+Quando o caçador foi ferido por uma flecha, Ahri sentiu a vida dele se esvair. Ela instintivamente devorou sua essência, deixando apenas o corpo, e absorveu breves flashes das memórias dele—da amante que ele tinha perdido em combate, dos filhos que tinha em uma estranha terra de ferro e pedra. Ela sentia que podia manipular suas emoções, alternando do medo para o pesar e para a alegria, e o encantou com visões de um bosque ensolarado em seu leito de morte.
+[FOTO]
+Eufórica com a sensação de absorver a vida do caçador e se sentindo mais viva do que nunca, Ahri viajou para Ionia em busca de mais vítimas. Ela se divertia em manipular as emoções de suas presas antes de devorar suas essências vitais, alternando entre deleitá-las com belas visões, alucinações de anseio extremo e, às vezes, sonhos repletos de profundo pesar.
+Se embriagava com as memórias que não lhe pertenciam e se inebriava nas vidas dos outros, e por meio dessas visões roubadas, Ahri via através dos olhos de suas presas.
+Via juras de lealdade a um templo de sombras, sacrifícios de oferendas para uma divindade do sol encarnada, encontros com uma tribo aviária de vastayas que só falavam cantando e vislumbres de cenários montanhosos diferentes de tudo que ela já vira. Conheceu a dor da perda e da alegria em flashes perturbadores que a deixaram querendo mais e chorou pelos massacres de aldeões ionianos pelas mãos de invasores noxianos.
+[FOTO]
+Ela ficou surpresa quando as memórias a levaram a conhecer a história de uma raposa demoníaca e sobrenatural. Quanto mais essência de vida absorvia, mais se identificava com suas vítimas, e assim começou a sentir-se culpada por ceifar tantas vidas. Ahri temia que os mitos sobre ela fossem verdade—ela não passava de um monstro cruel. Porém, sempre que passava muito tempo sem abater uma presa, sentia sua força se esvair e partia mais uma vez para a caçada.
+Ahri passou a testar seu autocontrole consumindo poucas quantidades de essência de vida, o suficiente para absorver uma memória ou duas, mas não o suficiente para matar. Ela foi bem sucedida por um tempo, mas a fome insaciável a torturava e logo ela cedeu à tentação.
+[FOTO]
+Certo dia, um artista cruzou seu caminho e a viu curvada sobre um homem enquanto drenava sua vida. Em um momento no qual outros teriam fugido, ele permaneceu e ofereceu sua própria essência em troca do coração de Ahri. E pela primeira vez na vida, ela se deixou amar e ser amada, totalmente e por inteiro.
+Os dias passavam repletos de calor e risadas, e ela saciava a fome se alimentando de seu amado. Ela estava feliz de verdade... até que perdeu o controle e drenou seu amado por completo.
+Entrando em desespero e consumida pelo luto enquanto lamentava a perda da primeira e única pessoa que havia amado de verdade e que a havia amado de verdade, ela se afastou ainda mais da sociedade. Se dedicou então a aprender mais sobre sua origem, na esperança de que isso a ajudasse a controlar suas habilidades.
+[FOTO]
+Ahri partiu em busca de outros como ela. Uma jornada que a levaria para fora de Ionia e por toda Runeterra, fazendo-a descobrir seus ancestrais: os Vesani. Uma tribo vastaya que trouxe inovação e magia para o mundo antes de ser exterminada. Então seguiu esse caminho, mundo afora procurando mais vestígios dos Versani.
+Ela espera dar continuidade ao seu legado, levando o bem para o mundo tal como eles fizeram. Sem o fardo de seus arrependimentos nas costas, ela também espera conseguir deixar para trás as memórias roubadas de outros e criar suas próprias.
+
+
+Habilidades (h2)
+(li)
+PASSIVA - FURTO DE ESSÊNCIA
+Depois de abater 9 tropas ou monstros, Ahri se cura. Depois de eliminar um Campeão inimigo, Ahri se cura em uma quantidade ainda maior.
+Q - ORBE DA ILUSÃO
+Ahri lança e puxa de volta seu orbe, causando Dano Mágico na ida e Dano Verdadeiro na volta.
+W - FOGO DE RAPOSA
+Ahri recebe um breve impulso de Velocidade de Movimento e lança três Fogos de Raposa que perseguem e atacam inimigos próximos.
+E - ENCANTO
+Ahri manda um beijo que causa dano e encanta um inimigo, interrompendo imediatamente qualquer habilidade de movimento em progresso e fazendo com que ele ande inofensivamente em sua direção.
+R - ÍMPETO ESPIRITUAL
+Ahri avança e dispara raios de essência, causando dano a inimigos próximos. Ímpeto Espiritual pode ser conjurada até três vezes antes de entrar em Tempo de Recarga e ganha reconjurações adicionais ao eliminar Campeões inimigos.
+
+Skins - Aside.
+Até a data desta postagem, Ahri é uma das campeãs do LoL com mais skins lançadas, somando número de skins. Confira quais e seus preços.
+
+
+Outras curiosidades:
+Ahri foi projetada por: Colt "Ezreal" Hellam, embora muitos outros Rioters tenham participado de seu projeto, como por exemplo: Coronach que desenvolveu seu pacote de habilidades. O supervisor do projeto campeã "Ahri" foi o lendário Michael "IronStylus" Marin; este Rioter é o mais importante, pois para um campeão sair da fase de desenvolvimento depende dele.
+
+Quando estava sendo desenvolvida, ela teve muitos nomes cotados. Para segredo do projeto, a equipe de "Ezreal" sempre chamava a campeã de "Kumiho" ou "Gumiho". Mas após um vazamento, eles tiveram que escolher um nome para ela, e então soltaram uma votação, na qual os jogadores do servidor beta Coreano votaram. As opções eram:
+Danbi (단비) (Salvador).             Ari (아리) (Gracioso).
+Nabi (나비) (Borboleta).            Chorong (초롱) (Purpurinado).
+Ruri (루리) (Deslumbrante).     Dasom (다솜) (Amando).
+Após 7 dias de votação o nome Ari (아리) que significa Gracioso ganhou, sendo muito aceito por todo servidor Coreano. Por motivos de ortografia da língua "Inglesa", foi adicionado um "H" a seu nome, para ficar melhor de se ler e escrever.
+
+No servidor brasileiro de league os legends, a campeã Ahri é dublada por Miriam Fischer.
+
+Footer
+Desenvolvido por Letícia Camacho para o projeto "Meu Primeiro Projeto" do canal CursoemVídeo.
