@@ -1,2 +1,33 @@
 @charset "UTF-8";
 
+@font-face {
+    font-family: 'PassionOne';
+    src: url('../fontes/PassionOne-Regular.ttf') format('trutype'), url('../fontes/PassionOne-Black.ttf') format('trutype'), url('../fontes/PassionOne-Bold.ttf') format('trutype');
+    font-weight: bold;
+}
+
+:root {
+    --fonte01 : 'PassionOne', 'cursive', sans-serif;
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 60px;
+    margin: -10px;
+    text-align: center;
+}
+
+header > p {
+    font-family: var(--fonte01);
+}
+
+header > p > a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+header > p > a:hover {
+    text-decoration:underline
+}
