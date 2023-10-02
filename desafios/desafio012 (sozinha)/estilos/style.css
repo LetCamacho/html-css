@@ -1,10 +1,6 @@
 @charset "UTF-8";
 
-@font-face {
-    font-family: 'PassionOne';
-    src: url('../fontes/PassionOne-Regular.ttf') format('trutype'), url('../fontes/PassionOne-Black.ttf') format('trutype'), url('../fontes/PassionOne-Bold.ttf') format('trutype');
-    font-weight: bold;
-}
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
 
 :root {
     --fonte01 : 'PassionOne', 'cursive', sans-serif;
@@ -30,4 +26,9 @@ header > p > a {
 
 header > p > a:hover {
     text-decoration:underline
+}
+
+t1 {
+    font-family: var(--fonte01);
+    font-weight: bold;
 }
