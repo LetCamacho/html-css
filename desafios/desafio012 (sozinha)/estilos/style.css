@@ -3,19 +3,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
 
 :root {
-    --fonte01 : 'PassionOne', 'cursive', sans-serif;
+    --fonte01 : 'Passion One', 'cursive', sans-serif;
 }
 
 header {
     background-color: black;
     color: white;
-    padding: 60px;
+    padding: 60px 30px 30px 30px;
     margin: -10px;
     text-align: center;
 }
+ header > t1 {
+    font-family: var(--fonte01);
+    font-weight: bold;
+    font-size: 3em;
+}
 
 header > p {
-    font-family: var(--fonte01);
+    font-family: sans-serif;
+    font-weight: normal;
 }
 
 header > p > a {
@@ -28,7 +34,3 @@ header > p > a:hover {
     text-decoration:underline
 }
 
-t1 {
-    font-family: var(--fonte01);
-    font-weight: bold;
-}
