@@ -44,7 +44,23 @@ main {
     line-height: 2em;
 }
 
+.imagem1 {
+    background-image: url('../imagens/background001.jpg');
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-attachment: fixed
+}
 
+.imagem2 {
+    background-image: url('../imagens/background002.jpg');
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-attachment: fixed
+}
 
 footer {
     background-color: black;
