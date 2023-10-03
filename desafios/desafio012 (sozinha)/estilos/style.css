@@ -19,12 +19,13 @@ header {
  header > t1 {
     font-family: var(--fonte01);
     font-weight: bold;
-    font-size: 3em;
+    font-size: 10vw;
 }
 
 header > p {
     font-family: sans-serif;
     font-weight: normal;
+    padding: ;
 }
 
 header > p > a {
