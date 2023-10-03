@@ -25,7 +25,6 @@ header {
 header > p {
     font-family: sans-serif;
     font-weight: normal;
-    padding: ;
 }
 
 header > p > a {
@@ -38,8 +37,11 @@ header > p > a:hover {
     text-decoration:underline
 }
 
-body {
+main {
     font-family: var(--fonte02);
+    font-size: 3.5vw;
+    padding: 60px 0px 60px 20px;
+    line-height: 2em;
 }
 
 
@@ -48,7 +50,7 @@ footer {
     background-color: black;
     color: white;
     padding: 0.5px;
-    margin: 3px -8px 3px -8px;
+    margin: 3px -8px -8px -8px;
     text-align: center;
     
 }
