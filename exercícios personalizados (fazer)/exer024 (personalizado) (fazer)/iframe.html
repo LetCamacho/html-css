@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício de Iframe</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        iframe {
+            width: 95vw;
+            height: 400px;
+            border: 2px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exercício de Iframe</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem, laudantium? Tempore odit nihil suscipit error voluptatum, iusto quos excepturi deserunt, hic velit libero impedit? Velit odio a in modi cum.</p>
+
+    <ul>
+        <li><a href="paginas-extras/pag001.html" target="frame">Primeira página</a></li>
+        <li><a href="paginas-extras/pag002.html" target="frame">Segunda página</a></li>
+        <li><a href="paginas-extras/pag003.html" target="frame">Terceira página</a></li>
+    </ul>
+
+    <iframe srcdoc="<img src='imagens/chuva.jpg'>" name="frame" frameborder="1">
+        <p>Infelizmente seu navegador não é compátivel.</p>
+    </iframe>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique voluptas cum fuga, sit praesentium veritatis dignissimos explicabo magni reiciendis officiis, temporibus, saepe possimus. Officia veniam possimus velit dicta fugiat cum!</p>
+</body>
+</html>
